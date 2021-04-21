@@ -1,5 +1,5 @@
 name = input("Masukan nama Monster kamu : ")
-monster = {"name": name, "power": 100}
+monster = {"name": name, "power": 50}
 
 def startGame():
     choice = input("Kamu mau apa?\n1.Makan 2.LihatStatus 3.LihatLevel 4.Keluar = ")
